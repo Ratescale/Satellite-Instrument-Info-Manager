@@ -3,13 +3,10 @@
 
 ## セットアップ
 
-1. このリポジトリをクローンします。
-2. 必要なパッケージとモデルをインストールします。
+1. このリポジトリをクローンします。 https://github.com/THU-EarthInformationScienceLab/Satellite-Instrument-NER
+3. 必要なパッケージとモデルをインストールします。
 
 ## 使用方法
-
 詳細な使用方法は、各スクリプトのドキュメンテーションを参照してください。
+https://github.com/THU-EarthInformationScienceLab/Satellite-Instrument-NER
 
-## ライセンス
-
-このプロジェクトはMITライセンスのもとで公開されています。
